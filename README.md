@@ -4,8 +4,8 @@ This repository contains code and data for the paper titled "Intraspecific Preda
 All codes are written in Matlab.
 
 ## Authors:
-- Ju Kang<sup>1</sup>
-- Shijie Zhang<sup>2,3</sup>
+- Ju Kang<sup>1&dagger;</sup>
+- Shijie Zhang<sup>2,3&dagger;</sup>
 - Yiyuan Niu<sup>1</sup>
 - Fan Zhong<sup>1</sup>
 - Xin Wang<sup>1,4*</sup> (Corresponding Author)
@@ -15,7 +15,8 @@ All codes are written in Matlab.
 2. School of Mathematics, Sun Yat-sen University, Guangzhou 510275, China
 3. Department of Mechanical Engineering, Massachusetts Institute ofTechnology, Cambridge, MA 021393
 4. Lead Contact
-*Correspondence:wangxin36@mail.sysu.edu.cn
+*For Correspondence: wangxin36@mail.sysu.edu.cn
+&dagger;These authors contributed equally to this work
 
 ## Contents:
 - ./code: Contains Matlab code used in simulations and analyses.
