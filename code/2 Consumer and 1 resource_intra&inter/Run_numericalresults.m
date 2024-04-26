@@ -29,6 +29,7 @@ tmesh=linspace(0,t0,t0);
 %define initial condition
 init=[15;10;10;0;0;0;0;0];
 y0 = [0.0 0.0 0.0 0.0 0.0 10 10 15];
+% It would be better to set the initial value R0 less than par.K0
 
 
 %ODEs simulation
