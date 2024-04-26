@@ -19,9 +19,9 @@ All codes are written in Matlab.
 &dagger;These authors contributed equally to this work
 
 ## Contents:
-- ./code: Contains Matlab code used in simulations and analyses.
-      - /Simulated Scenario :
-            - ...... Matlab code with approximation used in the main text. See Appendix VII, equation S79
-                - /No_Approximation_AppendixVII: Matlab code without approximation for mortality of Chasing_pair and intra_inter_specific_pair. See Appendix VII, equation S78
+- ./code: Contains Matlab code used in simulations and analyses.<br>
+  - |----> ./Simulated_Scenario_Folder :<br>
+    - |----> Main Code: Matlab code with approximation used in the main text. See Appendix VII, equation S79<br>
+      - |----> ./No_Approximation_AppendixVII: Matlab code without approximation for mortality of Chasing_pair and intra_inter_specific_pair. See Appendix VII, equation S78<br>
 
 - ./data: Includes datasets used and generated from Code.
