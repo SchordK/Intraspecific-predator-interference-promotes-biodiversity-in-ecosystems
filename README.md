@@ -20,8 +20,8 @@ All codes are written in Matlab.
 
 ## Contents:
 - ./code: Contains Matlab code used in simulations and analyses.<br>
-  |   ----/Simulated Scenario :<br>
-  |   |       |----...... Matlab code with approximation used in the main text. See Appendix VII, equation S79<br>
-  |   |       |---- /Exact_Equation_Simulation: Matlab code without approximation for precise calculations. See Appendix VII, equation S78<br>
+  |&nbsp   ----/Simulated Scenario :<br>
+  |&nbsp   |&nbsp       |----...... Matlab code with approximation used in the main text. See Appendix VII, equation S79<br>
+  |&nbsp   |&nbsp       |---- /Exact_Equation_Simulation: Matlab code without approximation for precise calculations. See Appendix VII, equation S78<br>
 
 - ./data: Includes datasets used and generated from Code.
