@@ -19,9 +19,9 @@ All codes are written in Matlab.
 &dagger;These authors contributed equally to this work
 
 ## Contents:
-- ./code: Contains Matlab code used in simulations and analyses.
-  |   ----/Simulated Scenario :
-  |   |       |----...... Matlab code with approximation used in the main text. See Appendix VII, equation S79 
-  |   |       |---- /Exact_Equation_Simulation: Matlab code without approximation for precise calculations. See Appendix VII, equation S78 
+- ./code: Contains Matlab code used in simulations and analyses.<br>
+  |   ----/Simulated Scenario :<br>
+  |   |       |----...... Matlab code with approximation used in the main text. See Appendix VII, equation S79<br>
+  |   |       |---- /Exact_Equation_Simulation: Matlab code without approximation for precise calculations. See Appendix VII, equation S78<br>
 
 - ./data: Includes datasets used and generated from Code.
