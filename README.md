@@ -1,8 +1,6 @@
 # Intraspecific Predator Interference Promotes Biodiversity in Ecosystems
 This repository contains code and data for the paper titled "Intraspecific Predator Interference Promotes Biodiversity in Ecosystems" authored by Ju Kang, Shijie Zhang, Yiyuan Niu, Fan Zhong, and Xin Wang.
 
-Cidted as :
-[1]. Ju Kang, Shijie Zhang, Yiyuan Niu, Fan Zhong, Xin Wang (2024)Intraspecific predator interferencepromotes biodiversityin ecosystems eLife 13:RP93115
 
 All codes are written in Matlab.
 
@@ -28,3 +26,12 @@ All codes are written in Matlab.
       - |----> ./No_Approximation_AppendixVII: Matlab code without approximation for mortality of Chasing_pair and intra_inter_specific_pair. See Appendix VII, equation S78<br>
 
 - ./data: Includes datasets used and generated from Code.
+
+## Citation
+If you use this code or data in your research, please cite the following paper:
+
+Ju Kang, Shijie Zhang, Yiyuan Niu, Fan Zhong, Xin Wang (2024)Intraspecific predator interferencepromotes biodiversityin ecosystems eLife 13:RP93115
+
+## License
+This project is licensed under the MIT License 
+- see the [LICENSE](./LICENSE) file for details.
